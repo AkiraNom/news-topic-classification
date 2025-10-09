@@ -67,7 +67,7 @@ This notebook fine-tunes:
 After training, the fine-tuned model is deployed via a **Gradio interface** for interactive inference.
 
 ### 🎥 App Preview
-🎬 [Watch full demo (MP4)](https://huggingface.co/spaces/TetorisAce/news_classifier/blob/main/assets/app_demo.mp4)
+![App Demo](assets/app_demo.gif)
 
 ### 🚀 Live Demo
 Open the Interactive App on Hugging Face Spaces → [Live_demo](https://huggingface.co/spaces/TetorisAce/news_classifier)
