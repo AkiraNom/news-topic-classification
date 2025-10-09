@@ -1,7 +1,7 @@
 # 📰 News Topic Classification (Transfer Learning with RoBERTa)
 
-This project demonstrates **transfer learning for text classification** using a pre-trained transformer model fine-tuned on a related news dataset.  
-A model originally trained on the **AG News** dataset (4 tpic categories) is further fine-tuned on the **BBC News** dataset to classify articles into 5 topic categories.
+This project demonstrates **transfer learning for text classification** using a pre-trained transformer model publicly available on the Hugging Face. The base model, [`textattack/roberta-base-ag-news`](https://huggingface.co/textattack/roberta-base-ag-news), was originally fine-tuned on the AG News dataset (4 topic categories). 
+This project further fine-tuned that model on BBC News dataset to claasify articles into five topic categories.
 
 ---
 
